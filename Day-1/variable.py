@@ -1,4 +1,4 @@
-# 2023/02/24
+# 2023/02/24, 02/26
 
 # Variable
 
@@ -25,3 +25,20 @@ print(length)
 
 # Example
 
+# Don't change the code below
+a = input("a: ")
+b = input("b: ")
+# Don't change th ecode above
+
+# Write u r code below this line
+
+c = a #  c = a(6)
+a = b # a(6) = b(100) -> a(100)
+b = c # b(100) = c(6) -> b(6)
+
+# Write u r code above this line
+
+# Don't change the code below
+print("a  = " + a)
+print("b  = " + b)
+# Don't change th ecode above
